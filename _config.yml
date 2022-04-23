@@ -3,7 +3,7 @@ title: "Arvind Radhakrishnen"
 email: "arvindrkrishnen@gmail.com"
 description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
 keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-baseurl: "/documentation" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arvindrkrishnen.github.io"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
