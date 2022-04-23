@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Leadership and Influence: describe past projects you’ve worked on and decisions that you made that helped push your team forward"
+date: 2018-12-05 8:14:30 +0600
+tags: [leadership, influence, education]
+post_image: https://cdn.stocksnap.io/img-thumbs/960w/LDMEHW1TYG.jpg
+comment: true
+---
+
+As we looked to extend and build a product management team to support global financial services clients, we focused on building products that solve real world issues for business and non CIO audiences. As a part of initial OKR, we were asked to deliver cost save of $25M per year for the clients starting Y2. We went on customer discovery exercise, starting with initial Business process services teams in TCS. With a base of 45,000+ associates supporting only for financial services, we had access to lot of real world challenges to solve for. After some assessments, we figured out the top 5 areas for us to focus on: a) Cognitive OCR with configurable interface with minimal trainings required b) Contact center transformation products (Chatbots, Voicebots, TextBots etc) c) Workflow automation product d) Knowledge Management (Search) e) Trade Finance Transformation (TRADAA) f) Mortgage Origination Platform (mMortgage)
+
+The decisions were made in concurrence with BU  head, technology & innovation head, engineering manager and key development leads along with Sales heads of NA and EU. The inclusiveness ensured we have least resistance and agreement. When we got started, we had very lean dev team (10 dev engineers, 2 PMs - including myself), so we had to be nimble with scope and budget. In order to ensure there is market fit, we started with 2 workstreams - one with internal BPS users to undersand the product features and the other one was with customers as part of various transformation led RFPs. I led the later part, got involved with RFPs to understand the customer ask and look at enhancing product featuresets. In this process, we continued building MVPs to demonstrate with customers as we looked to build the products. The MVP and customer demos helped us gain mindshare of larger sales leadership and within 3 months, we were participating in deals > $50M+ and eventually deal sizing > $500M+ within a year. The end financial services business and operations user helped us to gain more insight on challenges, technology landscape and this helped to feed into the product roadmap. I created a framework - Tran$form that allowed us to quanitfy the business outcomes ($ saves), took ownership of deliverables and built a team that forged the same culture as well.
+
+In the start, there was lot of ambiguity in what we were trying to do. Lot of internal conflicts as well, as there was an inclination with the sales team to leverage 3rd party products in place of our products as they were proven in the marketplace. I was able to push for our products, sometimes competing with internal groups as well to push for a pursuit even when the product was in alpha or beta phase.
+
+This was a stringent challenge for us to overcome, as we proved how TIDES was better than Amazon, Kofax and other industry products, workflow product was more robust as compared to Appian, and a general acceptance for Trade finance transformation platform from Citi.
+
+This helped us to estabilish my credibility in our marketplace and earn trust with internal stakeholders and eventually with customers too. There were mistakes/failures along the way as well, asO  did not choose our focus areas properly, pressed for changes in the product roadmap as the clients changed their priorities, but we as team learnt and moved.
+
+Eventually, I led efforts to evaluate and implement TIDES for Bank of America, Transamerica, Banco Pichincha and last one was AIG. This helped to deliver save of $20M per year. The other product was the conversational banking on WhatsApp for Banco Pichincha that helped bank save $5M per year.
