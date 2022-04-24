@@ -3,7 +3,6 @@ layout: post
 title:  "Summarize experience"
 date:   2019-01-17 18:51:30 +0600
 tags: [summarize, experience]
-post_image: https://images.pexels.com/photos/1366901/pexels-photo-1366901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 comment: true
 ---
 

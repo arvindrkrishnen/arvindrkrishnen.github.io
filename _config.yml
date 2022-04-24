@@ -6,21 +6,21 @@ keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arvindrkrishnen.github.io"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
-facebook: "https://www.facebook.com"
-twitter: "https://www.twitter.com"
-instagram: "https://www.instagram.com"
-github: "https://www.github.com"
-linkedin: "https://www.linkedin.com"
-behance: "https://www.behance.com"
-reddit: "https://www.reddit.com"
-vimeo: "https://www.vimeo.com"
-dribble: "https://www.dribble.com"
-youtube: "https://www.youtube.com"
+#facebook: "https://www.facebook.com"
+twitter: "https://www.twitter.com/arvindkrishnen"
+#instagram: "https://www.instagram.com"
+#github: "https://www.github.com"
+linkedin: "https://www.linkedin.com/mwlite/in/arvindradhakrishnen"
+#behance: "https://www.behance.com"
+#reddit: "https://www.reddit.com"
+#vimeo: "https://www.vimeo.com"
+#dribble: "https://www.dribble.com"
+#youtube: "https://www.youtube.com"
 
 ## Theme Options
 animated_header: ""  #true 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: arvindkrishnen
+github_username:  arvindrkrishnen
 
 
 # Build settings
@@ -32,6 +32,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag  
   - jekyll-sitemap
+  - github-pages
 
 collections:
   team_members:

@@ -3,7 +3,6 @@ layout: post
 title: "Leadership Influence"
 date: 2018-12-06 8:14:30 +0600
 tags: [leadership, influence]
-post_image: https://cdn.stocksnap.io/img-thumbs/960w/LDMEHW1TYG.jpg
 comment: true
 ---
 
