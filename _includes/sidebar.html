@@ -3,9 +3,11 @@
 <div class="recent-widget sidebar-widget">
   {% for post in site.posts limit:8 %}
    <div class="recent-wrapper">
+   	{% if post.post_image %}
       <a class="recent-img">
       <img src="{{post.post_image | relative_url}}" alt="{{post.title}}">
       </a>
+      {% endif %}
       <div class="recent-details">
          <h6 class="heading-6"> <a href="{{post.url | relative_url}}">{{post.title}}</a> </h6>
          <ul class="recent-meta list-inline">
