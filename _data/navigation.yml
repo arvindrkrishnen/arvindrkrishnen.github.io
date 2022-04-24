@@ -2,8 +2,6 @@
 
 - text: Home
   url: /
-- text: Support
-  url: /pages/support
 - text: Product Management
   url: /pages/product-management
 - text: Contact
