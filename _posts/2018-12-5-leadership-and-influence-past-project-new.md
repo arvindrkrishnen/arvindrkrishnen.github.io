@@ -3,7 +3,6 @@ layout: post
 title: "Leadership and Influence: describe past projects"
 date: 2018-12-05 8:14:30 +0600
 tags: [leadership, influence, education]
-post_image: https://cdn.stocksnap.io/img-thumbs/960w/LDMEHW1TYG.jpg
 comment: true
 ---
 
