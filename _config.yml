@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arvindrkrishnen.github.io"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 #facebook: "https://www.facebook.com"
-twitter: "https://www.twitter.com/arvindkrishnen"
+twitter: "https://www.twitter.com/arvindrkrishnen"
 #instagram: "https://www.instagram.com"
 #github: "https://www.github.com"
 linkedin: "https://www.linkedin.com/mwlite/in/arvindradhakrishnen"
@@ -19,7 +19,7 @@ linkedin: "https://www.linkedin.com/mwlite/in/arvindradhakrishnen"
 
 ## Theme Options
 animated_header: ""  #true 
-twitter_username: arvindkrishnen
+twitter_username: arvindrkrishnen
 github_username:  arvindrkrishnen
 
 
